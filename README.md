@@ -1,7 +1,7 @@
 # page-view-reports
 
 This repository contains an implementation of the specifications laid out
-in the enclosed 'eng.exercise.2015.md' file.
+in the 'eng.exercise.2015.md' file.
 
 In implementing the specification, I have used:
 
