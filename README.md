@@ -1,5 +1,4 @@
 # page-view-reports
-Ruby on Rails app which uses Sequel and AngularJS to display some reports about website page visits
 
 This repository contains an implementation of the specifications laid out
 in the enclosed 'eng.exercise.2015.md' file.
